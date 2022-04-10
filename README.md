@@ -16,7 +16,7 @@ The contributor is Ying Yang. The folders and the files can be annotated as foll
 1. Assets-it contains a empty text file;
 2. CSS-it contains 4 main.css file;
 3. images-it contains all image files;
-4. includes-it contains the annotation PDF and Google RoadMap document;
+4. includes-it contains the annotation PDF, doc. and Google RoadMap document;
 5. js-it contains 3 JS files;
 6. index.html and index1.html are linked with each other;
 8. One README.md file.
