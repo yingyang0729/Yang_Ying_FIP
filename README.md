@@ -9,7 +9,7 @@ And the developer also uses [Adobe Photoshop and Adobe Illustrator](https://www.
 
 During the processing of creating the JS files, Ying Yang checks many information. Those references include:[MouseEvent from Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Hotspots DB](https://www.youtube.com/watch?v=0KhQwrUso7A), [How to create an Image Hotspot in HTML](https://www.youtube.com/watch?v=BtsTfC3x6Yc). Ying Yang learns from it and changes those code to use.
 ## Usage
-TODO: The repo is for 1056 Web Development.
+TODO: The repo is for 1055 Mulitimedia Authoring.
 
 ## Contributing
 The contributor is Ying Yang. The folders and the files can be annotated as follow.
