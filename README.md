@@ -7,7 +7,7 @@ The two HTML are linked and those pages can be clicked the Home and product on t
 TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [W3Schools](https://www.w3schools.com/). 
 And the developer also uses [Adobe Photoshop and Adobe Illustrator](https://www.adobe.com/ca_fr/).
 
-During the processing of creating the JS files, Ying Yang checks many information. Those references include:[MouseEvent from Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Hotspots DB](https://www.youtube.com/watch?v=0KhQwrUso7A), [How to create an Image Hotspot in HTML](https://www.youtube.com/watch?v=BtsTfC3x6Yc). Ying Yang learns from it and changes those code to use.
+During the processing of creating the JS files, Ying Yang checks many information. Those references include:[MouseEvent from Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Hotspots DB](https://www.youtube.com/watch?v=0KhQwrUso7A), [How to create an Image Hotspot in HTML](https://www.youtube.com/watch?v=BtsTfC3x6Yc),[Create Advance Tool](https://www.youtube.com/watch?v=e_jEquJo7y8&t=2500s) . Ying Yang learns from it and changes those code to use.
 ## Usage
 TODO: The repo is for 1055 Mulitimedia Authoring.
 
